@@ -589,7 +589,9 @@ Your support encourages me to continue organizing and sharing educational resour
 
 🎓 BS Information Technology (BITF24M041)
 
-📚 Information Security — (2026)
+📚 Data Base Management System — (2025)
+
+🎓 3rd Semster DBMS Final Project
 
 🔗 GitHub: https://github.com/Talha-Yaseen-Hub
 
@@ -597,8 +599,8 @@ Your support encourages me to continue organizing and sharing educational resour
 
 <div align="center">
 
-### 🔐 Happy Learning!
+### 🔐 Happy Querying!
 
-*"Security is a continuous process, not a one-time solution."*
+*"Data integrity is a continuous verification process, not a one-time schema definition."*
 
 </div>
