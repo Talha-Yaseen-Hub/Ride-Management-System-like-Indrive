@@ -537,8 +537,8 @@ WHERE R.STATUS='COMPLETED';
 ```
 
 # 🚀 Setup and Execution Instructions
-**Prerequisites**
-**Installed instance of Oracle Database Express Edition (XE) or access to an Oracle Autonomous Database cloud workshop interface.
+Prerequisites
+Installed instance of Oracle Database Express Edition (XE) or access to an Oracle Autonomous Database cloud workshop interface.
 
 SQL Client management utilities like Oracle SQL Developer, TOAD, or Oracle APEX Workspaces.
 
@@ -549,7 +549,26 @@ Run the code block within Section 1 (DDL Schema) to create the table structure a
 
 Execute the data insertions in Section 2 to seed test files into the system tables.
 
-Load the triggers and functions from Sections 3, 4, and 5 into your database engine to compile the procedural business validation layer.**
+Load the triggers and functions from Sections 3, 4, and 5 into your database engine to compile the procedural business validation layer.
 
 Execute reporting statements directly against validation view assets to monitor system operations:
 ``` SELECT * FROM RIDEVIEW WHERE STATUS = 'COMPLETED'; ```
+
+# 🎓 Academic Context & Authorship
+```
+Institution: University of the Punjab (PU)
+
+College: Punjab University College of Information Technology (PUCIT)
+
+Department: Faculty of Computing and Information Technology (FCIT)
+
+Course Assignment: Database Systems Project
+
+Name: Talha Yaseen
+
+Roll No: BITF24M041
+
+Target Instructor: Dr. Asif Sohail
+
+Development Timeline: 3rd Semester
+```
