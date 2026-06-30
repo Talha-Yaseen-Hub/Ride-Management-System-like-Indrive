@@ -599,6 +599,13 @@ Your support encourages me to continue organizing and sharing educational resour
 
 ---
 
+# 📜 License
+
+This project is developed for **educational purposes only**.
+
+It demonstrates fundamental Information Security concepts and should not be considered a production-ready secure file sharing solution.
+
+
 <div align="center">
 
 ### 🔐 Happy Querying!
