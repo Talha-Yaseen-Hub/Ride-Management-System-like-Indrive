@@ -572,3 +572,33 @@ Target Instructor: Dr. Asif Sohail
 
 Development Timeline: 3rd Semester
 ```
+
+---
+
+# ⭐ Support
+
+If this repository helped you during your semester, consider giving it a **⭐ Star**.
+
+Your support encourages me to continue organizing and sharing educational resources with the student community.
+
+---
+
+# 👨‍💻 Author
+
+**Talha Yaseen**
+
+🎓 BS Information Technology (BITF24M041)
+
+📚 Information Security — (2026)
+
+🔗 GitHub: https://github.com/Talha-Yaseen-Hub
+
+---
+
+<div align="center">
+
+### 🔐 Happy Learning!
+
+*"Security is a continuous process, not a one-time solution."*
+
+</div>
