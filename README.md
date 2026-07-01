@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:FFB703,100:2EC4B6&height=200&section=header&text=Ride%20Sharing%20System&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Advanced%20Oracle%20SQL%20%2B%20PL%2FSQL%20Backend%20Engine&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:FFB703,100:2EC4B6&height=200&section=header&text=Ride%20Management%20System&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Advanced%20Oracle%20SQL%20%2B%20PL%2FSQL%20Backend%20Engine&descAlignY=58&descSize=18"/>
 
 <img src="https://img.shields.io/badge/University-Punjab-023047?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/College-PUCIT-FFB703?style=for-the-badge&logoColor=black"/>
