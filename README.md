@@ -1030,7 +1030,13 @@ Database Management System — Ride Sharing System Final Project (2025)
 <a id="license"></a>
 ## 📜 License
 
-This project was developed for **educational purposes only**, as part of a Database Systems course assignment. It demonstrates relational schema design and PL/SQL programming concepts — including constraints, functions, procedures, triggers, and views — and should not be considered a production-ready ride-hailing backend without further hardening (see [Engineering Notes](#issues) above). You are free to study, reference, and build upon this project for non-commercial, educational purposes — please credit this repository if you reuse substantial parts of it.
+<div align="center">
+
+<img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge&labelColor=1E3C72" />
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
+
+</div>
 
 <div align="right"><a href="#top">⬆️ Back to Top</a></div>
 
