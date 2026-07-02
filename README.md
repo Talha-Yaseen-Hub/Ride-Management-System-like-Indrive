@@ -1031,7 +1031,7 @@ Database Management System — Ride Sharing System Final Project (2025)
 
 
 
-### 📜 License
+## 📜 MIT License
 
 <div align="center">
 
