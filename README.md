@@ -1029,7 +1029,7 @@ Database Management System — Ride Sharing System Final Project (2025)
 
 <a id="license"></a>
 
-
+<br>
 
 ## 📜 License
 
@@ -1041,6 +1041,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 </div>
 
+<br>
 
 
 <div align="right"><a href="#top">⬆️ Back to Top</a></div>
